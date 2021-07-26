@@ -1,4 +1,3 @@
-
 while True:
     x = float(input("Первое число: "))
     s = input("Действие (+,-,*,/,^): ")
